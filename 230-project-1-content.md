@@ -18,4 +18,4 @@ You will navigate through ten levels of increasing difficulty to escape. The lev
 ![This is a preiview of the game](https://github.com/mwh2719/IGME-230/blob/master/Project1-Preview1.png)
 #### This is a preview of what the game will look like after you get the key
 ![This is a preiview of the game](https://github.com/mwh2719/IGME-230/blob/master/Project1-Preview2.png)
-## Keep in mind these are early previews to just show the style and idea of the game and are not representative of the final result.
+## Keep in mind these are early previews to just show the style and idea of the game and are not representative of the final game idea.
